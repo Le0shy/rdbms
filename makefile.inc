@@ -1,4 +1,4 @@
-## For students: change this path to the root of your code if this doesn't work
+## change this path to the root of your code if this doesn't work
 CODEROOT = ..
 
 #CC = gcc
